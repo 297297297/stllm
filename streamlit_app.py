@@ -1,7 +1,7 @@
 import streamlit as st
 from zhipuai import ZhipuAI  # 替换为智谱AI的库
 
-st.title("🦜🔗 Quickstart App")
+st.title("🦜❥ Quickstart App")
 
 zhipuai_api_key = st.sidebar.text_input("ZhipuAI API Key", type="password")  # 修改为智谱AI的API Key输入
 
